@@ -185,8 +185,47 @@ Mercurial – Another distributed VCS known for its performance and scalability.
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+Answer 
+
+1. Managing Complex Codebases
+
+Challenge: Large and complex projects become difficult to maintain and debug.
+
+Strategies:
+
+Use modular programming and follow design patterns.
+
+Maintain proper documentation and coding standards.
+
+Use refactoring techniques to keep the codebase clean and optimized.
 
 
+
+
+2. Debugging and Fixing Bugs
+
+Challenge: Identifying and fixing bugs can be time-consuming and frustrating.
+
+Strategies:
+
+Use debugging tools and logging frameworks (e.g., GDB, Log4j).
+
+Write unit tests and follow test-driven development (TDD).
+
+Break down the problem using binary search debugging (checking sections of code iteratively).
+
+
+3. Handling Tight Deadlines
+
+Challenge: Unrealistic deadlines can lead to stress and poor-quality code.
+
+Strategies:
+
+Use Agile methodologies (Scrum, Kanban) to break tasks into manageable sprints.
+
+Prioritize tasks using the Eisenhower Matrix (urgent vs. important).
+
+Communicate realistic timelines with project managers and stakeholders.
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
 
