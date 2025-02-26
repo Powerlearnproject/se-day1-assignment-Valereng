@@ -26,6 +26,29 @@ The early 2000s saw a shift from rigid, plan-driven methodologies (like Waterfal
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
+Answer 
+Planning – Defines the project scope, goals, resources, timeline, and feasibility to ensure a clear roadmap.
+
+
+2. Requirement Analysis – Gathers and documents functional and non-functional requirements from stakeholders to determine what the software should do.
+
+
+3. Design – Creates system architecture, UI/UX design, and database models, defining how the software will be structured and implemented.
+
+
+4. Implementation (Coding) – Developers write the actual code based on the design specifications, following coding standards and best practices.
+
+
+5. Testing – Verifies and validates the software through unit testing, integration testing, and system testing to identify and fix bugs.
+
+
+6. Deployment – The software is released to production, ensuring smooth installation and configuration for end-users.
+
+
+7. Maintenance & Support – Addresses bug fixes, performance improvements, and updates based on user feedback to keep the software functional and secure.
+
+
+
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
