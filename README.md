@@ -300,3 +300,24 @@ AI models rely on textual input, and ambiguous prompts can lead to misinterpreta
 Optimized prompts reduce the need for multiple iterations, saving time and effort in refining AI-generated responses
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Answer 
+Vague Prompt:
+
+"Tell me about history."
+
+Improved Prompt:
+
+"Provide a 300-word summary of the causes and effects of the French Revolution, including key events like the Storming of the Bastille and the Reign of Terror."
+
+Why the Improved Prompt is More Effective:
+
+1. Clarity – It narrows the focus to the French Revolution instead of all of history.
+
+
+2. Specificity – It highlights key elements to cover (causes, effects, and major events).
+
+
+3. Conciseness – It eliminates unnecessary vagueness while keeping the request direct.
+
+
+4. Measurability – It provides a word limit (300 words), ensuring a structured response.
