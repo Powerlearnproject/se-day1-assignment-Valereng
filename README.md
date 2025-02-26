@@ -12,6 +12,17 @@ Software engineering is the process of designing, developing, testing, deploying
 The importance of software engineering to the technology industry is that it brings about technological Innovation in such a way thst AI, cloud computing, IoT, and blockchain all depend on software engineering. Engineers create the applications and platforms that enable new technologies to flourish. Software engineering is the architecture of the digital world. It translates ideas into tangible products and services, fueling innovation in the technology industry and across other industries. Technology industry rely on software to streamline operations, automate tasks, and improve efficiency
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+Answer 
+The Birth of Software Engineering (1968)
+The term "software engineering" was first coined at the 1968 NATO Software Engineering Conference in response to the software crisis—a period when software projects were failing due to increasing complexity and lack of formal development methodologies. This milestone marked the beginning of software engineering as a discipline, emphasizing structured approaches to software development.
+
+
+2. The Rise of Structured Programming (1970s-1980s)
+In response to chaotic and unmanageable software development processes, structured programming emerged, popularized by figures like Edsger Dijkstra. Concepts such as modular design, top-down development, and control structures helped improve code readability and maintainability. The development of programming languages like C, Pascal, and Ada reflected these principles.
+
+
+3. The Agile Manifesto and Modern Development Practices (2001-Present)
+The early 2000s saw a shift from rigid, plan-driven methodologies (like Waterfall) to more flexible, iterative approaches. The Agile Manifesto, published in 2001, promoted principles such as continuous feedback, collaboration, and adaptability. This led to the widespread adoption of Scrum, Kanban, DevOps, and CI/CD, transforming how software is developed and deployed today.
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
