@@ -18,6 +18,37 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+Answer
+Testing: testing is performed at the end of the development cycle for waterfall while for Agile, testing is continuous in every interaction 
+
+Flexibility: for waterfall rigid changes are difficult to implement while for Agile changes are accommodated easily
+
+ Documentation: for waterfall there is comprehensive documentation before development starts while agile there is minimal documentation, focusing on working software 
+ 
+Approach: for waterfall it is sequential and linear for agile it is iterative and incremental 
+
+Delivery: for waterfall is delivers a complete product at the end while for agile it delivers in small increment throughout the project
+
+When to Use Waterfall
+
+1. Large-scale projects with well-defined requirements – e.g., government or enterprise applications where changes are minimal.
+
+2. Regulated industries – e.g., healthcare or banking systems requiring extensive documentation and compliance.
+
+3. Hardware and embedded systems – e.g., firmware development, where changes after implementation are costly.
+
+Example: Building an air traffic control system, where all requirements must be strictly defined before development begins.
+
+
+When to Use Agile
+
+1. Projects with evolving requirements – e.g., startups or software products where user feedback influences features.
+
+2. Fast-paced development environments – e.g., mobile apps or SaaS products needing frequent updates.
+
+3. Cross-functional and collaborative teams – e.g., web development where designers, developers, and testers work together iteratively.
+
+Example: Developing an e-commerce platform, where features like user experience and payment methods evolve based on customer feedback.
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
