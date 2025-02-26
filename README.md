@@ -227,7 +227,57 @@ Prioritize tasks using the Eisenhower Matrix (urgent vs. important).
 
 Communicate realistic timelines with project managers and stakeholders.
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+Answer 
+1. Unit Testing
 
+Definition: Tests individual components, functions, or modules in isolation.
+
+Purpose: Ensures each piece of code works correctly before integration.
+
+Tools: JUnit (Java), PyTest (Python), NUnit (.NET).
+
+Importance: Catches bugs early, making debugging easier and preventing defects from propagating.
+
+
+
+2. Integration Testing
+
+Definition: Tests how different modules or services interact.
+
+Purpose: Detects issues with data flow, API communication, and system dependencies.
+
+Types: Top-down, bottom-up, and hybrid (sandwich).
+
+Importance: Ensures that independently tested components function correctly when combined.
+
+
+
+3. System Testing
+
+Definition: Evaluates the entire software application as a whole.
+
+Purpose: Validates end-to-end workflows, performance, security, and usability.
+
+Tools: Selenium (automation), JMeter (performance), LoadRunner.
+
+Importance: Ensures the software meets business and technical requirements before release.
+
+
+
+4. Acceptance Testing
+
+Definition: Determines whether the software meets user and business requirements.
+
+Types:
+
+User Acceptance Testing (UAT) – Performed by end users.
+
+Alpha Testing – Internal testing by developers/testers.
+
+Beta Testing – Limited external release to gather real-world feedback.
+
+
+Importance: Ensures the product is ready for production and meets user expectations.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
